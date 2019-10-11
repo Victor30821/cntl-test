@@ -27,8 +27,7 @@ Segue o JSON: [http://images.contelege.com.br/poi.json](http://images.contelege.
 
 ### O que apreciamos
 
-README.md
-
+* README.md
 * Mapa do Google Maps
 * Locais no mapa vindo do JSON
 * HTML máximo possível semântico
