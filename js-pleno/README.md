@@ -12,12 +12,12 @@ O objetivo deste teste é avaliar seus conhecimentos em organização, boas prá
 
 ### Requisitos
 
-• HTML/CSS/JavaScript
-• React
-• NodeJS
-• Docker
-• Swagger API
-• Google Maps
+* HTML/CSS/JavaScript
+* React
+* NodeJS
+* Docker
+* Swagger API
+* Google Maps
 
 ### O Desafio
 
@@ -29,12 +29,12 @@ Segue o JSON: [http://images.contelege.com.br/poi.json](http://images.contelege.
 
 README.md
 
-• Mapa do Google Maps
-• Locais no mapa vindo do JSON
-• HTML máximo possível semântico
-• CSS bem estruturado
-• Código limpo e bem organizado
-• Agrupamento dos locais
+* Mapa do Google Maps
+* Locais no mapa vindo do JSON
+* HTML máximo possível semântico
+* CSS bem estruturado
+* Código limpo e bem organizado
+* Agrupamento dos locais
 
 ### Finalizando
 
