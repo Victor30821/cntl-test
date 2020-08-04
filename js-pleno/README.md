@@ -25,6 +25,8 @@ O objetivo é desenvolver uma página bem simples utilizando o Maps Javascript A
 
 Segue o JSON: [http://images.contelege.com.br/poi.json](http://images.contelege.com.br/poi.json)
 
+![Cluster](geopoints.gif)
+
 ### O que apreciamos
 
 * README.md
