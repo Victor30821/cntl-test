@@ -13,7 +13,6 @@ Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boa
 ### Requisitos
 
 * React Native
-* Google Maps
 * React Native 0.60+
 * Redux ou Hooks
 
