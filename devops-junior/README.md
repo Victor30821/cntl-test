@@ -17,6 +17,8 @@ através do frontend. O desafio é criar/estruturar um ambiente do backend para 
 
 Segue o JSON: [http://images.contelege.com.br/poi.json](http://images.contelege.com.br/poi.json)
 
+![Cluster](geopoints.gif)
+
 Segue alguns pontos:
 
 - A porta em que a aplicação roda deverá ser configurável de forma fácil e sem estar hardcoded.
