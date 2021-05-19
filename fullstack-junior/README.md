@@ -1,4 +1,4 @@
-# Contele Nodejs-junior
+# Contele fullstack-junior
 # Sobre nós
 Empresa do ramo de tecnologia, com forte atuação no mercado nacional em processo expansão Internacional. Projeto fixo, não é temporário. Projetos desafiadores e oportunidade de crescimento.
 
@@ -37,7 +37,7 @@ Código limpo e bem organizado
 README.md bem organizado
 
 # Finalizando
-Suba a sua proposta para o projeto que você criou no GitHub. Exemplo: https://github.com/seuNome/test-NodeJSJunior.git;
+Suba a sua proposta para o projeto que você criou no GitHub. Exemplo: https://github.com/seuNome/test-FullstackJSJunior.git;
 Aguarde o RH entrar em contato.
 
 ### Quem buscamos
