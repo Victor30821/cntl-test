@@ -1,0 +1,24 @@
+.modal-comment-container {
+    padding: 0 !important;
+}
+
+.modal-comment-header {
+    background: #1a2565 !important;
+    padding: 1.25em !important;
+    padding-bottom: 0 !important;
+}
+
+.modal-comment-title {
+    color: #fff !important;
+    text-align: left !important;
+    width: 100% !important;
+    overflow-wrap: anywhere !important;
+}
+
+.modal-comment-content {
+    color: #505050 !important;
+    padding: 1.25em !important;
+    padding-top: 20px !important;
+    max-height: 500px;
+    overflow: auto;
+}
