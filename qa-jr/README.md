@@ -7,6 +7,7 @@ Empresa do ramo de tecnologia, com forte atuação no mercado nacional em proces
 Criar relatório conforme os casos de testes efetuados.
 -   A premissa é descrever de forma objetiva os erros encontrados ao decorrer dos testes.
 -   Deve ser levado em conta testes de front-end, back-end e usabilidade.
+
 **Bonus**
 -   Insomnia/Postman
 ## Para rodar o desafio
